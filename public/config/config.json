@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7dDde18eDdeD1a193aaffBF37A4Fc60E27e5FDC7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x7dDde18eDdeD1a193aaffBF37A4Fc60E27e5FDC7",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "MPT6",
+  "SYMBOL": "MPT6NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpeanseaTestnets",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mpt6",
+  "SHOW_BACKGROUND": true
+}
